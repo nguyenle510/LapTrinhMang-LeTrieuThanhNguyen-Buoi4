@@ -1,0 +1,6 @@
+E:\QTM\LeTrieuThanhNguyen-Buoi4\Bai4_ShutdownClient\bin\Debug\Bai4_ShutdownClient.exe.config
+E:\QTM\LeTrieuThanhNguyen-Buoi4\Bai4_ShutdownClient\bin\Debug\Bai4_ShutdownClient.exe
+E:\QTM\LeTrieuThanhNguyen-Buoi4\Bai4_ShutdownClient\bin\Debug\Bai4_ShutdownClient.pdb
+E:\QTM\LeTrieuThanhNguyen-Buoi4\Bai4_ShutdownClient\obj\Debug\Bai4_ShutdownClient.csprojResolveAssemblyReference.cache
+E:\QTM\LeTrieuThanhNguyen-Buoi4\Bai4_ShutdownClient\obj\Debug\Bai4_ShutdownClient.exe
+E:\QTM\LeTrieuThanhNguyen-Buoi4\Bai4_ShutdownClient\obj\Debug\Bai4_ShutdownClient.pdb

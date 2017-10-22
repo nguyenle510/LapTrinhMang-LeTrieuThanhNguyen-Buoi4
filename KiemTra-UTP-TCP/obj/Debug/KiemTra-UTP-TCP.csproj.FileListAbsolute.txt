@@ -1,0 +1,6 @@
+E:\QTM\LeTrieuThanhNguyen-Buoi4\KiemTra-UTP-TCP\bin\Debug\KiemTra-UTP-TCP.exe.config
+E:\QTM\LeTrieuThanhNguyen-Buoi4\KiemTra-UTP-TCP\bin\Debug\KiemTra-UTP-TCP.exe
+E:\QTM\LeTrieuThanhNguyen-Buoi4\KiemTra-UTP-TCP\bin\Debug\KiemTra-UTP-TCP.pdb
+E:\QTM\LeTrieuThanhNguyen-Buoi4\KiemTra-UTP-TCP\obj\Debug\KiemTra-UTP-TCP.csprojResolveAssemblyReference.cache
+E:\QTM\LeTrieuThanhNguyen-Buoi4\KiemTra-UTP-TCP\obj\Debug\KiemTra-UTP-TCP.exe
+E:\QTM\LeTrieuThanhNguyen-Buoi4\KiemTra-UTP-TCP\obj\Debug\KiemTra-UTP-TCP.pdb
